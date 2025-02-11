@@ -1,6 +1,0 @@
-@microservices_monthly_summary_HostAddress = http://localhost:5024
-
-GET {{microservices_monthly_summary_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
