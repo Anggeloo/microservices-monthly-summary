@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gklCcG5mfhdDDRR5YEvzrNPEBIDdR4EEBK6ELGENGg4=",
+  "Source": "microservices-monthly-summary",
+  "BasePath": "_content/microservices-monthly-summary",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
